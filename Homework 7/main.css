@@ -1,0 +1,25 @@
+div {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: blueviolet;
+}
+
+span {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color:palevioletred;
+}
+
+#specificStyle{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:blue
+}
+
+#specificStyle2{
+    font-family: cursive;
+    color:cornflowerblue
+}
+
+div {
+    background-image: url("https://i.pinimg.com/564x/a2/c7/da/a2c7da0ce47928c47cfdaae0fd2d79c8.jpg");
+  }
